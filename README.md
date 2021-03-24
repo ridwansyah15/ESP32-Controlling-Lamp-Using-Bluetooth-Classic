@@ -13,7 +13,7 @@ Here are a few things that you have to prepare for this project:
 
 Copy and paste this link to your Arduino IDE preference: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 
-Go to the boards manager, search and download **esp32 by Espressif Systems**
+Go to the boards manager, search and download **esp32 by Espressif Systems**, then you ready to code.
 
 ## Project Schematic
 
