@@ -16,11 +16,14 @@ Follow this step on your Arduino IDE:
 * Copy and paste this link to your Arduino IDE preference: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json.
 * Go to the boards manager, search and download **esp32 by Espressif Systems**.
 * Go to tools menu and choose your board. In this project I use NodeMCU ESP-32S so I choose **NodeMCU-32S** in the board option.
+* Set the right port for your board.
 * Then you ready to code.
 
 ## Project Schematic and Implementation
 ### Schematic
-
+<p align="center">
+ <img width="612" alt="skematik" src="https://user-images.githubusercontent.com/74285906/112386678-d614ef00-8d23-11eb-91e2-4812604ad7ac.png">
+</p>
 
 ### Implementation
 <p align="center">
