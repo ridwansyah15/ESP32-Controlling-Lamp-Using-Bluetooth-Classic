@@ -9,4 +9,8 @@ Here are a few things that you have to prepare for this project:
   * [Android](https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal&hl=en&gl=US)
   * [Windows](https://www.microsoft.com/en-us/p/bluetooth-serial-terminal/9wzdncrdfst8?activetab=pivot:overviewtab)
 
-Then copy and paste this link to your Arduino IDE preference: (https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
+Copy and paste this link to your Arduino IDE preference: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+Go to the boards manager, search and download **esp32 by Espressif Systems**
+
+Then you ready to make your own simple home automation!
