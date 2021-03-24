@@ -1,5 +1,7 @@
-# ESP32-Controlling-Lamp-Using-Bluetooth-Classic
+# ESP32-Controlling Lamp Using Bluetooth Classic
 In this project, I am using NodeMCU ESP-32 to control lamp via bluetooth classic. In this case, I am using serial communication from my phone/PC as a client to ESP-32 as a server.
+
+## Preparation
 
 Here are a few things that you have to prepare for this project:
 * NodeMCU ESP-32/32S
@@ -13,7 +15,7 @@ Copy and paste this link to your Arduino IDE preference: https://raw.githubuserc
 
 Go to the boards manager, search and download **esp32 by Espressif Systems**
 
-Then you ready to make your own simple home automation!
+## Project Schematic
 
 Check out to my reference for this project:
 [Rui Santos](https://www.youtube.com/watch?v=RStncO3zb8g)
