@@ -17,5 +17,7 @@ Go to the boards manager, search and download **esp32 by Espressif Systems**, th
 
 ## Project Schematic
 
+## Reference
+
 Check out to my reference for this project:
 [Rui Santos](https://www.youtube.com/watch?v=RStncO3zb8g)
