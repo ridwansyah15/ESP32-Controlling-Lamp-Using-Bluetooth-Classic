@@ -15,10 +15,11 @@ Here are a few things that you have to prepare for this project:
 Follow this step on your Arduino IDE:
 * Copy and paste this link to your Arduino IDE preference: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json.
 * Go to the boards manager, search and download **esp32 by Espressif Systems**.
-* Go to tools menu and choose your board. In my project I use NodeMCU ESP-32S so I choose **NodeMCU-32S** in the board option.
+* Go to tools menu and choose your board. In this project I use NodeMCU ESP-32S so I choose **NodeMCU-32S** in the board option.
 * Then you ready to code.
 
 ## Project Schematic
+
 
 ## Reference
 Check out to my reference for this project:
