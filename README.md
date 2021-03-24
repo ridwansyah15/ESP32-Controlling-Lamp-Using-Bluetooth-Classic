@@ -18,8 +18,16 @@ Follow this step on your Arduino IDE:
 * Go to tools menu and choose your board. In this project I use NodeMCU ESP-32S so I choose **NodeMCU-32S** in the board option.
 * Then you ready to code.
 
-## Project Schematic
+## Project Schematic and Implementation
+### Schematic
 
+
+### Implementation
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74285906/112370361-dc996b80-8d0f-11eb-8b57-e653c542bab3.jpeg" alt="drawing" width="300"/>
+ <img src="https://user-images.githubusercontent.com/74285906/112372332-3ef36b80-8d12-11eb-8c86-324278e4e1ff.jpeg" alt="drawing" width="300"/>
+ <img src="https://user-images.githubusercontent.com/74285906/112372356-4450b600-8d12-11eb-8a6d-413353419d4d.jpeg" alt="drawing" width="300"/>
+</p>
 
 ## Reference
 Check out to my reference for this project:
