@@ -1,11 +1,4 @@
-//This example code is in the Public Domain (or CC0 licensed, at your option.)
-//By Evandro Copercini - 2018
-//
-//This example creates a bridge between Serial and Classical Bluetooth (SPP)
-//and also demonstrate that SerialBT have the same functionalities of a normal Serial
-
 #include "BluetoothSerial.h"
-
 #if !defined(CONFIG_BT_ENABLED) || !defined(CONFIG_BLUEDROID_ENABLED)
 #error Bluetooth is not enabled! Please run `make menuconfig` to and enable it
 #endif
@@ -34,7 +27,7 @@ void loop() {
     }
     Serial.write(incomingChar);  
   }
-  // Check received message and control output accordingly
+  // Check received message and control output for relay
   if (message =="on"){
     digitalWrite(relay, LOW);
   }
