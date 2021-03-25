@@ -27,9 +27,9 @@ Follow this step on your Arduino IDE:
 
 ### Implementation
 <p align="center">
- <img src="https://user-images.githubusercontent.com/74285906/112370361-dc996b80-8d0f-11eb-8b57-e653c542bab3.jpeg" alt="drawing" width="300"/>
- <img src="https://user-images.githubusercontent.com/74285906/112372332-3ef36b80-8d12-11eb-8c86-324278e4e1ff.jpeg" alt="drawing" width="300"/>
- <img src="https://user-images.githubusercontent.com/74285906/112372356-4450b600-8d12-11eb-8a6d-413353419d4d.jpeg" alt="drawing" width="300"/>
+ <img src="https://user-images.githubusercontent.com/74285906/112370361-dc996b80-8d0f-11eb-8b57-e653c542bab3.jpeg" alt="drawing" width="250"/>
+ <img src="https://user-images.githubusercontent.com/74285906/112372332-3ef36b80-8d12-11eb-8c86-324278e4e1ff.jpeg" alt="drawing" width="250"/>
+ <img src="https://user-images.githubusercontent.com/74285906/112372356-4450b600-8d12-11eb-8a6d-413353419d4d.jpeg" alt="drawing" width="250"/>
 </p>
 
 ## Reference
